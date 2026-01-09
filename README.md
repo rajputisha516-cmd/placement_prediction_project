@@ -60,6 +60,13 @@ The Logistic Regression model provides a reasonable accuracy for predicting plac
 
 ---
 
+## 🧪 How to Run the Project
+1. Clone the repository
+2. Install dependencies using requirements.txt
+3. Run the Python file
+
+---
+
 ## 🔮 Future Improvements
 - Add more features (skills, internships, projects)
 - Try advanced models (Random Forest, SVM)
